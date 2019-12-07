@@ -1,0 +1,4 @@
+:8080
+proxy / localhost:9092 {
+    transparent
+}
